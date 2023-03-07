@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrian-bastidas" alt="adrian-bastidas" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and Python**
+- 🌱 I’m currently learning **Angular and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
